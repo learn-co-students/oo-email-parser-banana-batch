@@ -1,6 +1,7 @@
 ---
   tags: string parsing, oop, micro, initializers
   languages: ruby
+  resources: 2
 ---
 
 # Object Oriented Email Parser
@@ -30,3 +31,6 @@ unique emails.
 Get all the tests to pass by implementing an "EmailParser" class.
 
 Run the test suite using the `rspec` command.
+## Resources
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [String Docs: split](http://books.flatironschool.com/books/11), page 678
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [4.3 Blocks and Iterators](http://books.flatironschool.com/books/11), page 68
