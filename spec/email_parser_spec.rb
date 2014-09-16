@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe "EmailParser" do
   describe '#parser' do
     it "parses CSV emails" do
