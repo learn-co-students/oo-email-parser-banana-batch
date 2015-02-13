@@ -1,7 +1,7 @@
 ---
-  tags: string parsing, oop, micro, initializers
-  languages: ruby
-  resources: 2
+tags: string parsing, oop, micro, initializers
+languages: ruby
+resources: 2
 ---
 
 # Object Oriented Email Parser
