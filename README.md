@@ -1,14 +1,14 @@
----
-tags: string parsing, oop, micro, initializers
-languages: ruby
-resources: 2
----
-
 # Object Oriented Email Parser
+
+## Objectives
+
+1. Practice defining a class and using an attr_accessor to create setter and getter methods
+2. Use TDD to write working code
 
 ## Description
 
 You will be writing an `EmailParser` class that gets initialized with a string of emails.
+
 Your job is to parse those emails into a useful array using an instance method,
 `parse`.
 
@@ -22,15 +22,16 @@ parser.parse
 # => ["john@doe.com", "person@somewhere.org"]
 ```
 
-I should be able to initialize with a list of emails either separated with spaces
-or separated with commas. The `parse` method should, additionally, only return
+You should be able to initialize with a list of emails either separated with spaces
+*or* separated with commas. The `parse` method should, additionally, only return
 unique emails.
 
 ## Instructions
 
-Get all the tests to pass by implementing an "EmailParser" class.
+This lab is test-driven, so run the test suite to get started and used the test output to get the program working. 
 
-Run the test suite using the `rspec` command.
-## Resources
-* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [String Docs: split](http://books.flatironschool.com/books/11), page 678
-* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [4.3 Blocks and Iterators](http://books.flatironschool.com/books/11), page 68
+**Hints:**
+
+* How will you control for parsing a list of emails that is *either* comma separated *or* separated by a white space. 
+* Use an attr_accessor to set and get the list of emails
+
