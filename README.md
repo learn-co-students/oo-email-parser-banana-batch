@@ -28,7 +28,7 @@ unique emails.
 
 ## Instructions
 
-This lab is test-driven, so run the test suite to get started and used the test output to get the program working. 
+This lab is test-driven, so run the test suite to get started and use the test output to get the program working. 
 
 **Hints:**
 
