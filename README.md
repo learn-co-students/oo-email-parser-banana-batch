@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Practice defining a class and using an attr_accessor to create setter and getter methods
+1. Practice defining a class and using an `attr_accessor` to create setter and getter methods
 2. Use TDD to write working code
 
 ## Description
@@ -33,5 +33,5 @@ This lab is test-driven, so run the test suite to get started and use the test o
 **Hints:**
 
 * How will you control for parsing a list of emails that is *either* comma separated *or* separated by a white space. 
-* Use an attr_accessor to set and get the list of emails
+* Use an `attr_accessor` to set and get the list of emails
 
