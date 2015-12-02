@@ -35,3 +35,5 @@ This lab is test-driven, so run the test suite to get started and use the test o
 * How will you control for parsing a list of emails that is *either* comma separated *or* separated by a white space. 
 * Use an `attr_accessor` to set and get the list of emails
 
+
+<a href='https://learn.co/lessons/oo-email-parser' data-visibility='hidden'>View this lesson on Learn.co</a>
