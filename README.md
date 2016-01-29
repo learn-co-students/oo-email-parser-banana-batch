@@ -36,4 +36,4 @@ This lab is test-driven, so run the test suite to get started and use the test o
 * Use an `attr_accessor` to set and get the list of emails
 
 
-<a href='https://learn.co/lessons/oo-email-parser' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-email-parser' title='Object Oriented Email Parser'>Object Oriented Email Parser</a> on Learn.co and start learning to code for free.</p>
