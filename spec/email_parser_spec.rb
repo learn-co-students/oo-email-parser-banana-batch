@@ -1,5 +1,5 @@
 describe "EmailParser" do
-  describe '#parser' do
+  describe '#parse' do
     it "parses CSV emails" do
       expect(EmailParser.new("avi@test.com, arel@test.com").parse).to eq(["avi@test.com", "arel@test.com"])
     end
